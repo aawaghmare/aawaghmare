@@ -25,8 +25,11 @@ I’m a **Data Science** enthusiast with 6+ years of experience in leveraging da
 
 5) 🔗 **[Probability Distribution](https://github.com/aawaghmare/statistics/blob/main/probability-distribution/probability-distributions.ipynb)**: To determine which type of probability distribution best fits data, calculate z-score, and detect outliers
 
-6) 🔗 **[Capstone Project]()**: This was part of my course at Google Advance Data analytics certification
 
+**Machine Learning Projects**
+
+1) 🔗 **[Machine Learning](https://github.com/aawaghmare/statistics/blob/main/machine-learning/kaggle-projects/Binary%20Classification%20with%20a%20Bank%20Churn%20Dataset/predict-churn.ipynb)**: Binary Classification with a Bank Churn Dataset (Logistics regression, Decision tree, Hyper Parameter tuning, Random Forest, XGB Boost) 
+ 
 **NLP & LLM**
 
 1) 🔗 **[Resume modifier application](https://github.com/aawaghmare/resume-modifier-app)**: This application modifies resumes to better align with job descriptions using generative AI techniques.
