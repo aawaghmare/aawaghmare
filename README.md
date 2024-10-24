@@ -13,7 +13,7 @@ I’m a Data Science enthusiast with 6+ years of experience in leveraging data t
 
 Projects:
 
-**[Resume modifier application](https://github.com/aawaghmare/resume-modifier-app)**
+1) **[Resume modifier application](https://github.com/aawaghmare/resume-modifier-app)**
 
 
 Let’s connect and build something amazing together! 💡
