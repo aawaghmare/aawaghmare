@@ -28,6 +28,10 @@ Continuously expanding my knowledge of AI advancements, especially in NLP and LL
 
 ***Projects:***
 
+**NLP & LLM**
+
+🔗 **[Resume modifier application](https://github.com/aawaghmare/resume-modifier-app)**: Developed an AI-powered application that optimizes resumes to align better with job descriptions using generative AI. Check out tool at [amitwags.pythonanywhere.com](https://amitwags.pythonanywhere.com/)
+
 **Statistics**
 
 1) 🔗 **[Exploratory Data Analysis](https://github.com/aawaghmare/statistics/blob/main/eda/eda-tiktok-project-lab.ipynb)**: Detailed exploratory analysis using PACE framework for TikTok dataset.
@@ -44,10 +48,6 @@ Continuously expanding my knowledge of AI advancements, especially in NLP and LL
 **Machine Learning Projects**
 
 1) 🔗 **[Machine Learning](https://github.com/aawaghmare/statistics/blob/main/machine-learning/kaggle-projects/Binary%20Classification%20with%20a%20Bank%20Churn%20Dataset/predict-churn.ipynb)**: Built classification models on Bank Churn dataset using Logistic Regression, Decision Trees, XGBoost, with Hyperparameter Tuning.
- 
-**NLP & LLM**
-
-1) 🔗 **[Resume modifier application](https://github.com/aawaghmare/resume-modifier-app)**: Developed an AI-powered application that optimizes resumes to align better with job descriptions using generative AI. Check out tool at [amitwags.pythonanywhere.com](https://amitwags.pythonanywhere.com/)
 
 
 Let’s connect and build something amazing together! 💡
