@@ -19,7 +19,7 @@ Exploring opportunities in Data Science and Analytics, helping businesses make i
 
 
 ## 🎯 Interests:
-I’m passionate about automating processes, predictive modeling, and exploring the intersection of AI and business.
+I’m passionate about automating processes, data science, predictive modeling, and exploring the intersection of AI and business.
 
 ## 🌱 Currently Learning:
 Continuously expanding my knowledge of AI advancements, especially in NLP and LLMs.
