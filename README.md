@@ -11,12 +11,12 @@ I’m a **Data Science** enthusiast with 6+ years of experience in leveraging da
 - 🎯 Interests: I'm passionate about automating processes, predictive modeling, and exploring the intersection of AI and business.
 - 🌱 Learning: Continuously expanding my knowledge of AI advancements.
 
-**Projects:**
+***Projects:***
 
-*Statistics*
+**Statistics**
 
 
-*NLP & LLM*
+**NLP & LLM**
 
 1) 🔗 **[Resume modifier application](https://github.com/aawaghmare/resume-modifier-app)** : This application modifies resumes to better align with job descriptions using generative AI techniques.
 
