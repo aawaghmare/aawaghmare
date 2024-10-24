@@ -15,9 +15,9 @@ I’m a **Data Science** enthusiast with 6+ years of experience in leveraging da
 
 **Statistics**
 
-1) 🔗 **[Confidence Interval](https://github.com/aawaghmare/statistics/blob/main/confidence_intervals/Confidence%20Interval.ipynb)**: Provide a summary of the mean AQI, boxplot visualization using seaborn, construct a confidence interval
+1) 🔗 **[Confidence Interval](https://github.com/aawaghmare/statistics/blob/main/confidence_intervals/Confidence%20Interval.ipynb)**: Provided a summary of the mean AQI, boxplot visualization using seaborn, construct a confidence interval
 
-2) 🔗 **[Hypothesis Testing](https://github.com/aawaghmare/statistics/blob/main/hypothesis-testing/hypothesis-testing.ipynb)**: Construct a hypothesis test to make a recommendation using Air Quality Index (AQI)
+2) 🔗 **[Hypothesis Testing](https://github.com/aawaghmare/statistics/blob/main/hypothesis-testing/hypothesis-testing.ipynb)**: Constructed a hypothesis test to make a recommendation using Air Quality Index (AQI)
 
 3) 🔗 **[Capstone Project]()**: This was part of my course at Google Advance Data analytics certification
 
