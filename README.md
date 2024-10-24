@@ -21,7 +21,9 @@ I’m a **Data Science** enthusiast with 6+ years of experience in leveraging da
 
 3) 🔗 **[Hypothesis Testing](https://github.com/aawaghmare/statistics/blob/main/hypothesis-testing/hypothesis-testing.ipynb)**: Constructed a hypothesis test to make a recommendation using Air Quality Index (AQI)
 
-4) 🔗 **[Probability Distribution](https://github.com/aawaghmare/statistics/blob/main/probability-distribution/probability-distributions.ipynb)**: to determine which type of probability distribution best fits data, calculate z-score, and detect outliers
+4) 🔗 **[Regression modeling](https://github.com/aawaghmare/statistics/blob/main/regression/regression-modeling.ipynb)**: Built a regression model to predict user churn based on a variety of variables in waze data set
+
+5) 🔗 **[Probability Distribution](https://github.com/aawaghmare/statistics/blob/main/probability-distribution/probability-distributions.ipynb)**: To determine which type of probability distribution best fits data, calculate z-score, and detect outliers
 
 6) 🔗 **[Capstone Project]()**: This was part of my course at Google Advance Data analytics certification
 
