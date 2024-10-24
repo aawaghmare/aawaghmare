@@ -15,7 +15,7 @@ I’m a **Data Science** enthusiast with 6+ years of experience in leveraging da
 
 **Statistics**
 
-1) 🔗 **[Eexploratory Data Analysis](https://github.com/aawaghmare/statistics/blob/main/confidence_intervals/Confidence%20Interval.ipynb](https://github.com/aawaghmare/statistics/blob/main/eda/eda-tiktok-project-lab.ipynb)**: Detailed EDA using PACE framework for tiktok dataset
+1) 🔗 **[Eexploratory Data Analysis](https://github.com/aawaghmare/statistics/blob/main/eda/eda-tiktok-project-lab.ipynb)**: Detailed EDA using PACE framework for tiktok dataset
    
 2) 🔗 **[Confidence Interval](https://github.com/aawaghmare/statistics/blob/main/confidence_intervals/Confidence%20Interval.ipynb)**: Provided a summary of the mean AQI, boxplot visualization using seaborn, construct a confidence interval
 
