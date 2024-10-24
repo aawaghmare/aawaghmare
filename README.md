@@ -10,10 +10,13 @@ Exploring opportunities in Data Science and Analytics, helping businesses make i
 - **Machine Learning**: XGBoost, Random Forest, Hyperparameter Tuning
 - **Data Analysis**: Statistical Modeling, Regression, Churn Prediction
 - **Automation**: Automating processes with Python, Google Cloud
-- **Tools**: Google Ads, Google Analytics, YouTube, Display, Search, Looker, Dashboarding
+- **Tools**: Looker, Dashboarding, Google Ads, Google Analytics, YouTube, Display, Search, 
 
 ## 🚀 Experience:
-- **Google**: Worked on strategic insights for Search, providing data-driven recommendations to senior leadership for EMEA growth.
+- **Google**: Provided strategic guidance on Search business growth, market trends, and opportunities in EMEA markets, driving informed decision-making and sustaining double-digit search revenue growth for Google EMEA.
+- **Clairvolex**: Built a machine learning model with ~90% accuracy to predict the licensing and sales potential of patents, currently in use by Clairvolex.com.
+- **Wipro**: Developed text analytics models using SPSS to improve customer sentiment analysis, leading to a 20% reduction in service complaints and increased customer satisfaction (C-SAT) scores.
+
 
 ## 🎯 Interests:
 I’m passionate about automating processes, predictive modeling, and exploring the intersection of AI and business.
