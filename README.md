@@ -14,6 +14,8 @@ I’m a **Data Science** enthusiast with 6+ years of experience in leveraging da
 ***Projects:***
 
 **Statistics**
+1) 🔗 **[Hypothesis Testing]()** : This was part of my course at Google Advance Data analytics certification
+
 
 
 **NLP & LLM**
