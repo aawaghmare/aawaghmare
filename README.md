@@ -17,7 +17,7 @@ I’m a **Data Science** enthusiast with 6+ years of experience in leveraging da
 
 1) 🔗 **[Hypothesis Testing]()**: This was part of my course at Google Advance Data analytics certification
 
-2) 🔗 **[Confidence Interval]()**: This was part of my course at Google Advance Data analytics certification
+2) 🔗 **[Confidence Interval](https://github.com/aawaghmare/statistics/tree/main/confidence_intervals)**: This was part of my course at Google Advance Data analytics certification
 
 3) 🔗 **[Capstone Project]()**: This was part of my course at Google Advance Data analytics certification
 
