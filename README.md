@@ -30,7 +30,7 @@ Continuously expanding my knowledge of AI advancements, especially in NLP and LL
 
 **Statistics**
 
-1) 🔗 **[Eexploratory Data Analysis](https://github.com/aawaghmare/statistics/blob/main/eda/eda-tiktok-project-lab.ipynb)**: Detailed exploratory analysis using PACE framework for TikTok dataset.
+1) 🔗 **[Exploratory Data Analysis](https://github.com/aawaghmare/statistics/blob/main/eda/eda-tiktok-project-lab.ipynb)**: Detailed exploratory analysis using PACE framework for TikTok dataset.
    
 2) 🔗 **[Confidence Interval](https://github.com/aawaghmare/statistics/blob/main/confidence_intervals/Confidence%20Interval.ipynb)**: Constructed and visualized confidence intervals for AQI dataset using seaborn.
 
