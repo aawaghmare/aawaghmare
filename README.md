@@ -14,13 +14,16 @@ I’m a **Data Science** enthusiast with 6+ years of experience in leveraging da
 ***Projects:***
 
 **Statistics**
-1) 🔗 **[Hypothesis Testing]()** : This was part of my course at Google Advance Data analytics certification
 
+1) 🔗 **[Hypothesis Testing]()**: This was part of my course at Google Advance Data analytics certification
 
+2) 🔗 **[Confidence Interval]()**: This was part of my course at Google Advance Data analytics certification
+
+3) 🔗 **[Capstone Project]()**: This was part of my course at Google Advance Data analytics certification
 
 **NLP & LLM**
 
-1) 🔗 **[Resume modifier application](https://github.com/aawaghmare/resume-modifier-app)** : This application modifies resumes to better align with job descriptions using generative AI techniques.
+1) 🔗 **[Resume modifier application](https://github.com/aawaghmare/resume-modifier-app)**: This application modifies resumes to better align with job descriptions using generative AI techniques.
 
 
 Let’s connect and build something amazing together! 💡
