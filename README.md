@@ -19,7 +19,9 @@ I’m a **Data Science** enthusiast with 6+ years of experience in leveraging da
 
 2) 🔗 **[Hypothesis Testing](https://github.com/aawaghmare/statistics/blob/main/hypothesis-testing/hypothesis-testing.ipynb)**: Constructed a hypothesis test to make a recommendation using Air Quality Index (AQI)
 
-3) 🔗 **[Capstone Project]()**: This was part of my course at Google Advance Data analytics certification
+3) 🔗 **[Probability Distribution](https://github.com/aawaghmare/statistics/blob/main/probability-distribution/probability-distributions.ipynb)**: to determine which type of probability distribution best fits data, calculate z-score, and detect outliers
+
+4) 🔗 **[Capstone Project]()**: This was part of my course at Google Advance Data analytics certification
 
 **NLP & LLM**
 
