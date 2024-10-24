@@ -16,6 +16,8 @@ I’m a **Data Science** enthusiast with 6+ years of experience in leveraging da
 *Statistics*
 
 
+*NLP & LLM*
+
 1) 🔗 **[Resume modifier application](https://github.com/aawaghmare/resume-modifier-app)** : This application modifies resumes to better align with job descriptions using generative AI techniques.
 
 
