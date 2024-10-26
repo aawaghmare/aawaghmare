@@ -47,8 +47,9 @@ Continuously expanding my knowledge of AI advancements, especially in NLP and LL
 
 **Machine Learning Projects**
 
-1) 🔗 **[Machine Learning](https://github.com/aawaghmare/statistics/blob/main/machine-learning/kaggle-projects/Binary%20Classification%20with%20a%20Bank%20Churn%20Dataset/predict-churn.ipynb)**: Built classification models on Bank Churn dataset using Logistic Regression, Decision Trees, XGBoost, with Hyperparameter Tuning.
+1) 🔗 **[Classification Problem](https://github.com/aawaghmare/statistics/blob/main/machine-learning/kaggle-projects/Binary%20Classification%20with%20a%20Bank%20Churn%20Dataset/predict-churn.ipynb)**: Built classification models on Bank Churn dataset using Logistic Regression, Decision Trees, XGBoost, with Hyperparameter Tuning.
 
+2) 🔗 **[Timeseries Problem](https://github.com/aawaghmare/statistics/blob/main/machine-learning/nlp/sunspot/Sunspots_CNN_RNN_DNN.ipynb.ipynb)**: Timeseries forecasting for sunspots using CNN, RNN, DNN techniques
 
 Let’s connect and build something amazing together! 💡
 
