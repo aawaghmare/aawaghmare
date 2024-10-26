@@ -26,7 +26,7 @@ Continuously expanding my knowledge of AI advancements, especially in NLP and LL
 
 ---
 
-## 💻 Projects:
+## 💻 <u> Projects: </u>
 
 **AI Powered**
 
