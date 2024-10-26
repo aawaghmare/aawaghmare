@@ -6,11 +6,9 @@ I’m a Data Science enthusiast with 7+ years of experience in leveraging data t
 Exploring opportunities in Data Science and Analytics, helping businesses make informed decisions with actionable insights.
 
 ## 🧠 Skills:
-- **Programming**: Python, SQL
-- **Machine Learning**: XGBoost, Random Forest, Hyperparameter Tuning
-- **Data Analysis**: Statistical Modeling, Regression, Churn Prediction
-- **Automation**: Automating processes with Python, Google Cloud
-- **Tools**: Looker, Dashboarding, Google Ads, Google Analytics, YouTube, Display, Search, 
+- **Data Science & Analytics**: Machine Learning, Quantitative Analysis, Forecasting, A/B Testing, Feature Engineering, Exploratory Data Analysis (EDA), Advanced SQL, Data Modeling & Mining, Six Sigma Green Belt
+- **Business Intelligence & Visualization**: Data Visualization, Dashboarding (Tableau, Looker), Business Intelligence, Google Analytics, Google Ads, Digital Marketing
+- **Business & Financial Analysis**: Business Analysis, Financial Analysis, Stakeholder Management, Communication (Technical & Non-Technical) 
 
 ## 🚀 Experience:
 - **Google**: Provided strategic guidance on Search business growth, market trends, and opportunities in EMEA markets, driving informed decision-making and sustaining double-digit search revenue growth for Google EMEA.
