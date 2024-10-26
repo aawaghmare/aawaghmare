@@ -28,7 +28,7 @@ Continuously expanding my knowledge of AI advancements, especially in NLP and LL
 
 ## 💻 Projects:
 
-**<u>AI Powered**</u>
+** <span style="text-decoration:underline;"> AI Powered** </span>
 
 🔗 **[Resume modifier application](https://github.com/aawaghmare/resume-modifier-app)**: Developed an AI-powered application that optimizes resumes to align better with job descriptions using generative AI. Check out tool at [amitwags.pythonanywhere.com](https://amitwags.pythonanywhere.com/)
 
