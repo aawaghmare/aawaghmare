@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Amit Waghmare
 
-I’m a Data Science enthusiast with 6+ years of experience in leveraging data to drive business insights and growth. My expertise spans statistical analysis, machine learning, and data visualization, with a strong focus on solving real-world problems through data-driven solutions.
+I’m a Data Science enthusiast with 7+ years of experience in leveraging data to drive business insights and growth. My expertise spans statistical analysis, machine learning, and data visualization, with a strong focus on solving real-world problems through data-driven solutions.
 
 ## 🔍 Currently:
 Exploring opportunities in Data Science and Analytics, helping businesses make informed decisions with actionable insights.
