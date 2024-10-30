@@ -49,6 +49,12 @@ Continuously expanding my knowledge of AI advancements, especially in NLP and LL
 
 2) 🔗 **[Timeseries Problem](https://github.com/aawaghmare/statistics/blob/main/machine-learning/nlp/sunspot/Sunspots_CNN_RNN_DNN.ipynb.ipynb)**: Timeseries forecasting for sunspots using CNN, RNN, DNN techniques
 
+
+**Micro Projects**
+
+1) 🔗 **[Financial Model](https://github.com/aawaghmare/statistics/blob/main/micro-projects/DCF-model-yfinance.ipynb)**: DCF method to calculate the fair stock price of a company
+
+
 Let’s connect and build something amazing together! 💡
 
 <!---
