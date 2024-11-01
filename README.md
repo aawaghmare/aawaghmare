@@ -53,7 +53,7 @@ Continuously expanding my knowledge of AI advancements, especially in NLP and LL
 
 **Micro Projects**
 
-1) 🔗 **[Financial Model](https://github.com/aawaghmare/statistics/blob/main/micro-projects/DCF-model-yfinance.ipynb)**: DCF method to calculate the fair stock price of a company
+1) 🔗 **[Financial Model](https://github.com/aawaghmare/statistics/blob/main/micro-projects/DCF-model-yfinance.ipynb)**: Predicting a fair stock price of a company using DCF method
 
 Let’s connect and build something amazing together! 💡
 
