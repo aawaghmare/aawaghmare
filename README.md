@@ -7,8 +7,9 @@ Exploring opportunities in Data Science and Analytics, helping businesses make i
 
 ## 🧠 Skills:
 - **Data Science & Analytics**: Machine Learning, Quantitative Analysis, Forecasting, A/B Testing, Feature Engineering, Exploratory Data Analysis (EDA), Advanced SQL, Data Modeling & Mining, Six Sigma Green Belt
-- **Business Intelligence & Visualization**: Data Visualization, Dashboarding (Tableau, Looker), Business Intelligence, Google Analytics, Google Ads, Digital Marketing
-- **Business & Financial Analysis**: Business Analysis, Financial Analysis, Stakeholder Management, Communication (Technical & Non-Technical) 
+- **Tools & Technology**: Python, R, SQL, Advanced SQL, Databricks, Tableau, Looker, Looker Studio, Apache Airflow, GCP, Google Analytics, Google Ads
+- **Business Acumen**: Business Analysis, Financial Analysis, Stakeholder Management, Data Visualization, Dashboarding, Customer Segmentation, Marketing Analytics, Revenue Optimization, Digital Marketing
+- **Communication**: Clear and concise communication, presentation skills, ability to translate technical findings into actionable insights for non-technical stakeholders
 
 ## 🚀 Experience:
 - **Google**: Provided strategic guidance on Search business growth, market trends, and opportunities in EMEA markets, driving informed decision-making and sustaining double-digit search revenue growth for Google EMEA.
