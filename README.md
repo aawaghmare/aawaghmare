@@ -12,9 +12,9 @@ Exploring opportunities in Data Science and Analytics, helping businesses make i
 - **Communication**: Clear and concise communication, presentation skills, ability to translate technical findings into actionable insights for non-technical stakeholders
 
 ## 🚀 Experience:
-- **Google**:
-- ***Business Finance Analyst***: Provided data-driven decision-making support through statistical analysis and strategic guidance on Search business growth, market trends, and opportunities in EMEA markets, driving informed decisions and sustaining double-digit search revenue growth for Google EMEA.
-- ***Ads Strategy Consultant***: Developed long-term growth plans tailored to each client’s needs, resulting in an average +20% Y/Y growth across the book of business with data-driven solutions and business problem-solving.
+- **Google**
+   - ***Business Finance Analyst***: Provided data-driven decision-making support through statistical analysis and strategic guidance on Search business growth, market trends, and opportunities in EMEA markets, driving informed decisions and sustaining double-digit search revenue growth for Google EMEA.
+   - ***Ads Strategy Consultant***: Developed long-term growth plans tailored to each client’s needs, resulting in an average +20% Y/Y growth across the book of business with data-driven solutions and business problem-solving.
 - **Clairvolex**: Built a machine learning model with ~90% accuracy to predict the licensing and sales potential of patents, currently in use by Clairvolex.com.
 - **Wipro**: Developed text analytics models using SPSS to improve customer sentiment analysis, leading to a 20% reduction in service complaints and increased customer satisfaction (C-SAT) scores.
 
