@@ -41,7 +41,8 @@ Continuously expanding my knowledge of AI advancements, especially in NLP and LL
 4) 🔗 **[Regression modeling](https://github.com/aawaghmare/statistics/blob/main/regression/regression-modeling.ipynb)**: Predicted user churn using regression models, identifying key factors driving churn in the Waze dataset.
    
 5) 🔗 **[Probability Distribution](https://github.com/aawaghmare/statistics/blob/main/probability-distribution/probability-distributions.ipynb)**: Analyzed probability distributions, calculated z-scores, and identified outliers.
-
+   
+6) 🔗 **[Bayesian model](https://github.com/aawaghmare/statistics/blob/main/micro-projects/Bayesian_model.ipynb)**: Predicting loan approval status using Bayesian methods to assess borrower eligibility based on financial and demographic features.
 
 **Machine Learning Projects**
 
@@ -53,7 +54,6 @@ Continuously expanding my knowledge of AI advancements, especially in NLP and LL
 **Micro Projects**
 
 1) 🔗 **[Financial Model](https://github.com/aawaghmare/statistics/blob/main/micro-projects/DCF-model-yfinance.ipynb)**: DCF method to calculate the fair stock price of a company
-
 
 Let’s connect and build something amazing together! 💡
 
